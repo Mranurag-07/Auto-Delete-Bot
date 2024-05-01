@@ -16,7 +16,8 @@
 - Account used to create SESSION is a member in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deployhttps://github.com/Mranurag-07/Auto-Delete-Bot)
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mranurag-07/Auto-Delete-Bot)
 
 ## Deploy in your VPS
 
